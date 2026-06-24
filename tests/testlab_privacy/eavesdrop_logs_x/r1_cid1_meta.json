@@ -1,0 +1,9 @@
+{
+  "round": 1,
+  "cid": 1,
+  "num_examples": 1,
+  "use_he": false,
+  "he_encrypt_ratio": 0.02,
+  "he_mask_seed": 42,
+  "attack_lr": 0.01
+}
